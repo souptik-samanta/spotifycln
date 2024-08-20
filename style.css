@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #0d0d0d;
+  color: #fff;
+}
+
+.menu-bar {
+  height: 100vh;
+  width: 14em;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  background-color: #000;
+}
+
+.menu-bar img {
+  height: 3.75em;
+  width: 9.3em;
+  margin: 0.5em 0 0 0.9em;
+}
+
+.menu-bar .fa-podcast {
+  color: green;
+}
+
+.menu-bar .fa-heart {
+  color: #ff3333;
+}
+
+.menu-bar nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.menu-bar nav ul li {
+  margin: 1em 0;
+}
+
+.menu-bar nav ul li a {
+  text-decoration: none;
+  color: #cccccc;
+  padding: 0.5em 0.5em;
+  margin-left: 1.2em;
+}
+
+.menu-bar nav ul li a:hover {
+  color: #fff;
+}
+
+.menu-bar nav ul li a svg {
+  margin: 0 1em 0.3em 0;
+}
+
+.menu-bar nav ul li a .fa {
+  margin-right: 1em;
+}
+
+.menu-bar .user-collection {
+  margin-bottom: 6em;
+}
