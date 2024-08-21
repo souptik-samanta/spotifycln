@@ -246,3 +246,80 @@ const Body = () => {
             React.createElement("p", { class: "author" }, "Benny Joshua, Allen Ganta")))), /*#__PURE__*/
 
 
+
+
+      React.createElement("div", { class: "category" }, /*#__PURE__*/
+        React.createElement("div", { class: "title" }, /*#__PURE__*/
+          React.createElement("h3", null, "Charts"), /*#__PURE__*/
+          React.createElement("a", { href: "#" }, "SEE ALL")), /*#__PURE__*/
+
+        React.createElement("div", null, /*#__PURE__*/
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_in_default.jpg", alt: "Top 50 India playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Top 50 India")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f00000002b545db24c5864981ff896f07", alt: "Hot Hits India playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Hot Hits India")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg", alt: "Top 50 Global playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Top 50 Global")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706c0000da84fc156bed23ef2df5814fb190", alt: "Top Albums - Global playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Top Albums - Global")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://charts-images.scdn.co/assets/locale_en/viral/daily/region_global_default.jpg", alt: "Viral 50 - India playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Viral 50 - India")))), /*#__PURE__*/
+
+
+
+
+      React.createElement("div", { class: "category" }, /*#__PURE__*/
+        React.createElement("div", { class: "title" }, /*#__PURE__*/
+          React.createElement("h3", null, "Best Of Artists"), /*#__PURE__*/
+          React.createElement("a", { href: "#" }, "SEE ALL")), /*#__PURE__*/
+
+        React.createElement("div", null, /*#__PURE__*/
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f000000021230c7f75023a90181e914a0", alt: "This is Alessia Cara playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "This Is Alessia Cara")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f00000002a0a577ed169a7792c9363d6c", alt: "This is Hillsong Worship playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "This Is Hillsong Worship")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f00000002181896dd694bc09e4a0f13c8", alt: "This is Camila Cabello playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "This Is Camila Cabello")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f000000027988283d13d5654287988494", alt: "This is Shawn Mendes playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "This Is Shawn Mendes")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67706f00000002b75cdf3f088c129cc350c0f8", alt: "This is One Direction playlist cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "This Is One Direction")))), /*#__PURE__*/
+
