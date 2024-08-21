@@ -323,3 +323,57 @@ const Body = () => {
 
             React.createElement("p", { class: "category-name" }, "This Is One Direction")))), /*#__PURE__*/
 
+
+
+
+      React.createElement("div", { class: "category final-category" }, /*#__PURE__*/
+        React.createElement("div", { class: "title" }, /*#__PURE__*/
+          React.createElement("div", { class: "popular-shows" }, /*#__PURE__*/
+            React.createElement("p", null, "POPULAR WITH LISTENERS OF"), /*#__PURE__*/
+            React.createElement("h3", null, "Headline: Breaking Football News")), /*#__PURE__*/
+
+          React.createElement("a", { href: "#" }, "SEE ALL")), /*#__PURE__*/
+
+        React.createElement("div", null, /*#__PURE__*/
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67656300005f1f6070c8c3beddfeef90cd9044", alt: "Football Cliches podcast cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Football Cliches"), /*#__PURE__*/
+            React.createElement("p", { class: "author" }, "Show. The Athletic")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67656300005f1fff3db692e1f2dbe7c73951e2", alt: "The Athletic Football Podcast podcast cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "The Athletic Football Podcast"), /*#__PURE__*/
+            React.createElement("p", { class: "author" }, "Show. The Athletic")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67656300005f1fea8a7821ffed11a7bfe73c71", alt: "Beyond the Headline podcast cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "Beyond the Headline"), /*#__PURE__*/
+            React.createElement("p", { class: "author" }, "Show. The Athletic")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/ab67656300005f1f31a9464d4951d231128babc6", alt: "The Next Big Thing podcast cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "The Next Big Thing"), /*#__PURE__*/
+            React.createElement("p", { class: "author" }, "Show. The Athletic")), /*#__PURE__*/
+
+          React.createElement("div", { class: "category-info" }, /*#__PURE__*/
+            React.createElement("div", { class: "img-div" }, /*#__PURE__*/
+              React.createElement("img", { src: "https://i.scdn.co/image/bdd990bddb85baa44c320b2ffba328549e184643", alt: "The Scouted Football Podcast podcast cover photo" })), /*#__PURE__*/
+
+            React.createElement("p", { class: "category-name" }, "The Scouted Football Podcast"), /*#__PURE__*/
+            React.createElement("p", { class: "author" }, "Show. Scouted Football"))))));
+
+
+
+
+
+};
+
+ReactDOM.render( /*#__PURE__*/React.createElement(App, null), document.getElementById('root'));
