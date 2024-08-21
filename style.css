@@ -396,4 +396,121 @@ body {
     grid-template-columns: auto auto;
     grid-gap: 0.5em;
   }
+
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 17em;
+    border-radius: 0.3em;
+  }
+
+  .main-content main .recent-activity .activity-info:nth-child(n+5) {
+    display: none;
+  }
+
+  .main-content main .recent-activity .activity-info .img-div {
+    margin-right: 0.5em;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 800px) {
+  .main-content main .recent-activity {
+    grid-template-columns: auto auto;
+    grid-gap: 0.5em;
+  }
+
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 14em;
+    border-radius: 0.3em;
+  }
+
+  .main-content main .recent-activity .activity-info:nth-child(n+5) {
+    display: none;
+  }
+
+  .main-content main .recent-activity .activity-info .img-div {
+    margin-right: 0.5em;
+  }
+}
+
+@media (max-width: 700px) {
+  .menu-bar {
+    visibility: hidden;
+  }
+
+  .main-content header .hamburger {
+    visibility: visible;
+  }
+
+  .main-content main {
+    margin-left: 0;
+    padding: 0.5em;
+  }
+
+  .main-content main .category .title a {
+    margin-right: 0;
+  }
+
+  .main-content main .recent-activity {
+    justify-content: center;
+    grid-template-columns: auto auto;
+    grid-gap: 0.5em;
+  }
+
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 16em;
+    border-radius: 0.3em;
+    margin-bottom: 0.2em;
+  }
+
+  .main-content main .recent-activity .activity-info:nth-child(n+5) {
+    display: none;
+  }
+
+  .main-content main .recent-activity .activity-info .img-div {
+    margin-right: 0.5em;
+  }
+
+  .main-content main .category div .category-info {
+    margin-top: 0.2em;
+  }
+
+  .main-content main .greeting h2 {
+    margin-bottom: 0.5em;
+  }
+}
+
+@media (max-width: 530px) {
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 12em;
+    border-radius: 0.3em;
+    margin-bottom: 0.2em;
+  }
+}
+
+@media (max-width: 400px) {
+  .main-content main .recent-activity {
+    justify-content: center;
+    grid-template-columns: auto;
+  }
+
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 12em;
+    border-radius: 0.3em;
+    margin-bottom: 0.2em;
+  }
+
+  .main-content main .recent-activity .activity-info {
+    height: 4em;
+    width: 16em;
+    border-radius: 0.3em;
+    margin-bottom: 0.2em;
+  }
+
+  .main-content main .recent-activity .activity-info:nth-child(n+3) {
+    display: none;
+  }
 }
